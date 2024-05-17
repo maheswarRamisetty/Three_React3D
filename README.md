@@ -9,7 +9,7 @@ cd <your-app-name>
 
 Packages--
 
-npm install three @react-three/fiber @react-three/drei \n
-    (or) \n
+npm install three @react-three/fiber @react-three/drei <br/>
+    (or) <br/>
 yarn add three @react-three/fiber @react-three/drei
 
