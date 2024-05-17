@@ -13,3 +13,10 @@ npm install three @react-three/fiber @react-three/drei <br/>
     (or) <br/>
 yarn add three @react-three/fiber @react-three/drei
 
+
+<br/>
+
+#Run the app
+
+npm run dev
+
